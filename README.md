@@ -3,3 +3,5 @@ Discord token, Cookie, Wifi Password, Webcam, Passwords, Injector stealer/grabbe
 If you use this and get in any type of trouble or if anything happens it is not on me.
 If windows or any software/site says this grabber is malicious please do keep in mind this grabber creates malicious files and does malicious activities, meaning it is good to use.
 Add "zerxxx." on discord for help.
+
+Run As Admin For It To Work.
